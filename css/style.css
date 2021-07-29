@@ -1,0 +1,32 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&family=Oswald:wght@300;700&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Import CSS components  */
+@import url('components/banner.css');
+@import url('components/button.css');
+@import url('components/container.css');
+@import url('components/card.css');
+@import url('components/footer.css');
+
+
+/* Utilities */
+body {
+  margin: -35px;
+  font-family: 'Cardo', serif;
+}
+
+h1, h2, h3, button {
+  font-family: 'Oswald', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+ul {
+  list-style: none;
+}

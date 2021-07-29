@@ -1,0 +1,16 @@
+.footer {
+  background-color: #2C2B2B;
+  margin-bottom: 0px;
+}
+.social-flex {
+  display: flex;
+  justify-content: center;
+  padding: 56px;
+  font-size: 32px;
+}
+.social-flex li {
+  padding: 0 16px;
+}
+.social-flex a {
+  color: #d32f2f;
+}
